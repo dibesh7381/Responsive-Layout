@@ -37,10 +37,15 @@ This project is a React application built with Vite and styled using Tailwind CS
 
 ## Demo Pictures
 
+### Look in Desktop
 ![Look in Desktop](screenshots/3.png)
 *(Look in Desktop)*
+
+### Look in Mobile
 ![Look in Mobile](screenshots/2.png)
 *(Look in Mobile)*
+
+### Look with Menu bar
 ![Look with Menu bar](screenshots/1.png)
 *(Look in mobile with navbar menu Desktop)*
 
