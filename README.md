@@ -51,3 +51,7 @@ This project is a React application built with Vite and styled using Tailwind CS
 
 ---
 
+[connect with me](https://github.com/dibesh7381)
+
+---
+
