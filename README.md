@@ -34,3 +34,12 @@ This project is a React application built with Vite and styled using Tailwind CS
     The application will be available at `http://localhost:5173`.
 
 ---
+
+## Demo Pictures
+
+![Look in Desktop](screenshots/3.png)
+![Look in Mobile](screenshots/2.png)
+![Look with Menu bar](screenshots/1.png)
+
+---
+
